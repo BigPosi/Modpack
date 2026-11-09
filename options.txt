@@ -49,7 +49,7 @@ mouseSensitivity:0.25633802816901413
 damageTiltStrength:1.0
 highContrast:false
 narratorHotkey:false
-resourcePacks:["vanilla","mod_resources","file/Stay_True_1.21.zip","file/Mandala Utopia.zip","file/Mandala\u0027s GUI - Dark Mode Compat Neo 0.3 Fix.zip","file/Mandela\u0027s GUI Vanilla Crosshair 1.21.zip","file/Re-Simple-Storage.zip","file/Icon Xaero\u0027s 1.22.zip","file/waystones_1.21.1.zip","file/NoBushyLeaves.zip","file/Stay Clear V1.1 [1.21.1].zip","file/Beautiful Enchanted Books - MC 1.21.1 - 8.0.0.zip","mod/boatiview","file/sweety_items_21.zip","builtin/aether_tooltips","builtin/client/deep_aether_tooltips","fabric"]
+resourcePacks:["vanilla","mod_resources","file/Stay_True_1.21.zip","file/Mandala Utopia.zip","file/Mandala\u0027s GUI - Dark Mode Compat Neo 0.3 Fix.zip","file/Mandela\u0027s GUI Vanilla Crosshair 1.21.zip","file/Re-Simple-Storage.zip","file/Icon Xaero\u0027s 1.22.zip","file/waystones_1.21.1.zip","file/NoBushyLeaves.zip","file/Stay Clear V1.1 [1.21.1].zip","mod/boatiview","file/sweety_items_21.zip","builtin/aether_tooltips","builtin/client/deep_aether_tooltips","fabric"]
 incompatibleResourcePacks:[]
 lastServer:localhost
 lang:en_us
