@@ -1,0 +1,11 @@
+renderDistance:10
+simulationDistance:6
+graphicsMode:0
+betterBiomeBlendRadius:2
+biomeBlendRadius:1
+entityShadows:false
+renderClouds:"fast"
+mipmapLevels:2
+particles:1
+entityDistanceScaling:0.75
+maxFps:120
