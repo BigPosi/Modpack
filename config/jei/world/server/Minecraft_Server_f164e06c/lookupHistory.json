@@ -1,0 +1,7 @@
+[
+  {"version":1},
+  {"ingredient":{"id":"chipped:dark_freckled_red_mushroom_block"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"minecraft:mushroom_stew"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"biomeswevegone:holly_log"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"minecraft:bread"},"type":"item_stack","bookmarkType":"INGREDIENT"}
+]

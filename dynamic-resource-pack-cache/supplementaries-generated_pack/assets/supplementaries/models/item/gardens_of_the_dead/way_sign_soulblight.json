@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "supplementaries:item/way_signs/gardens_of_the_dead/way_sign_soulblight"
+  }
+}
